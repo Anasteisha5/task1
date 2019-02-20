@@ -8,8 +8,6 @@
 ## УСТАНОВКА 
 1. [Windows](https://git-scm.com/download/win)
 1. [Mac](https://git-scm.com/download/mac)
-1. [Ubuntu](apt-get install git )
-1. [Fedora](dnf install git) 
 1. [Другие версии Linux](https://git-scm.com/download/linux)
 
 ### НАСТРОЙКА 
