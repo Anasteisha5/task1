@@ -5,20 +5,20 @@
 А если Вы вдруг ошибетесь и Вам нужно вернутся в прошлое? Здесь Вам поможет **git**. Он позволит вернуть Вам часть кода к старому виду.
 Но **git** - это нечто большее, чем просто машина времени для вашего кода. Он позволяет Вам совместно работать с другими людьми над одним и тем же кодом.
 Кроме того Вы сможете вести параллельную разработку нескольких версий благодаря ветвям.
-##УСТАНОВКА 
+## УСТАНОВКА 
 1. [Windows](https://git-scm.com/download/win)
-1. [Mac] (https://git-scm.com/download/mac)
-1. [Ubuntu]( apt-get install git )
-1. [Fedora]( dnf install git) 
-1. [Другие версии Linux]( https://git-scm.com/download/linux)
+1. [Mac](https://git-scm.com/download/mac)
+1. [Ubuntu](apt-get install git )
+1. [Fedora](dnf install git) 
+1. [Другие версии Linux](https://git-scm.com/download/linux)
 
-###НАСТРОЙКА 
+### НАСТРОЙКА 
 Git хранит историю в привязке к имени пользователя и email. Чтобы задать имя пользователя и     email необходимо выполнить следующие команды: 
 
 **git config --global user.name "Vasya Pupkin"**
  **git config --global user.email vasya@localhost** 
 
-####ОБЩАЯ СХЕМА РАБОТЫ
+#### ОБЩАЯ СХЕМА РАБОТЫ
 * Создание локального репозитория для проекта;
 * Добавление файлов (изменённых) в список отслеживания (stage area
 или index);
